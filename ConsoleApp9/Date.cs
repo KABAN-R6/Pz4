@@ -23,7 +23,7 @@ namespace ConsoleApp9
         }
         public void Display()
         {
-            Console.WriteLine($"$год {year} , день{_day}, месяц {_month} ");
+            Console.WriteLine($"год {year} , день{_day}, месяц {_month} ");
            
         }
         
